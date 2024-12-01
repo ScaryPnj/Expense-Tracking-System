@@ -37,6 +37,7 @@ This project is an expense management system that consists of a Streamlit fronte
   *Figure: Screenshot of the Expense Management System frontend.*
   ![Expense Management Screenshot](analytics_ui_demo1.png)
   ![Expense Management Screenshot](analytics_ui_demo2.png)
+  
   *Figure: Screenshot of the Expense Management System showcasing the dashboard interface.*
 
 
