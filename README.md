@@ -32,5 +32,5 @@ This project is an expense management system that consists of a Streamlit fronte
     streamlit run frontend/app.py
    ```
 
-   ## Project Sample Images
-- ![Expense Management Screenshot](app_frontend_ui.png)
+## Project Sample Images
+ ![Expense Management Screenshot](app_frontend_ui.png)
